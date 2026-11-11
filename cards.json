@@ -1,38 +1,4 @@
 {
-    "TK899C5F70EE03E9DF2425F522": {
-        "status": "banned",
-        "expire": "2026-11-13 00:57",
-        "bind_mac": "",
-        "unbind_count": 1,
-        "remain_time": 1415
-    },
-    "TK67AA411A9B69C0AD8C4C8C86": {
-        "status": "unused",
-        "type": "TK",
-        "duration_mins": 1440,
-        "expire": "",
-        "bind_mac": "",
-        "unbind_count": 0,
-        "remain_time": 0
-    },
-    "TK2AD89CFBE3A9387F1BC35EEC": {
-        "status": "running",
-        "type": "自定义",
-        "duration_mins": 120,
-        "expire": "2026-11-12 02:14",
-        "bind_mac": "49319242727609",
-        "unbind_count": 0,
-        "remain_time": 0
-    },
-    "NK4859CB5584112F5FC70FA297": {
-        "status": "running",
-        "type": "NK",
-        "duration_mins": 525600,
-        "expire": "2027-11-12 00:22",
-        "bind_mac": "963348703328",
-        "unbind_count": 0,
-        "remain_time": 0
-    },
     "yh专属": {
         "status": "running",
         "type": "自定义",
@@ -48,24 +14,6 @@
         "duration_mins": 1440,
         "expire": "",
         "bind_mac": "",
-        "unbind_count": 0,
-        "remain_time": 0
-    },
-    "TK": {
-        "status": "running",
-        "type": "TK",
-        "duration_mins": 1440,
-        "expire": "2026-11-13 02:04",
-        "bind_mac": "49319242727609",
-        "unbind_count": 0,
-        "remain_time": 0
-    },
-    "KK68E73F81877B1A36B4E9A293": {
-        "status": "running",
-        "type": "自定义",
-        "duration_mins": 60,
-        "expire": "2026-11-12 03:05",
-        "bind_mac": "49319242727609",
         "unbind_count": 0,
         "remain_time": 0
     }
