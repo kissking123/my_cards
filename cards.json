@@ -32,5 +32,14 @@
         "bind_mac": "963348703328",
         "unbind_count": 0,
         "remain_time": 0
+    },
+    "yh专属": {
+        "status": "unused",
+        "type": "自定义",
+        "duration_mins": 1,
+        "expire": "",
+        "bind_mac": "",
+        "unbind_count": 0,
+        "remain_time": 0
     }
 }
