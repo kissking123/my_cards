@@ -23,11 +23,11 @@
         "remain_time": 0
     },
     "TK2AD89CFBE3A9387F1BC35EEC": {
-        "status": "unused",
+        "status": "running",
         "type": "自定义",
         "duration_mins": 120,
-        "expire": "",
-        "bind_mac": "",
+        "expire": "2026-11-12 02:14",
+        "bind_mac": "49319242727609",
         "unbind_count": 0,
         "remain_time": 0
     },
