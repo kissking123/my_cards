@@ -30,5 +30,14 @@
         "bind_mac": "",
         "unbind_count": 0,
         "remain_time": 0
+    },
+    "NK4859CB5584112F5FC70FA297": {
+        "status": "unused",
+        "type": "NK",
+        "duration_mins": 525600,
+        "expire": "",
+        "bind_mac": "",
+        "unbind_count": 0,
+        "remain_time": 0
     }
 }
