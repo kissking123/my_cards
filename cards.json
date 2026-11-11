@@ -18,5 +18,14 @@
         "unbind_count": 0,
         "remain_time": 0,
         "last_online": "2026-11-12 05:11:21"
+    },
+    "yh专属": {
+        "status": "unused",
+        "type": "自定义",
+        "duration_mins": 4730400,
+        "expire": "",
+        "bind_mac": "",
+        "unbind_count": 0,
+        "remain_time": 0
     }
 }
