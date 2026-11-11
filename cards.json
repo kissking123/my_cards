@@ -2,8 +2,8 @@
     "TK899C5F70EE03E9DF2425F522": {
         "status": "banned",
         "expire": "2026-11-13 00:57",
-        "bind_mac": "49319242727609",
-        "unbind_count": 0,
+        "bind_mac": "",
+        "unbind_count": 1,
         "remain_time": 1415
     },
     "TK67AA411A9B69C0AD8C4C8C86": {
