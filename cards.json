@@ -1,13 +1,4 @@
 {
-    "yh专属": {
-        "status": "running",
-        "type": "自定义",
-        "duration_mins": 1,
-        "expire": "2054-03-29 00:47",
-        "bind_mac": "",
-        "unbind_count": 0,
-        "remain_time": 0
-    },
     "kissking": {
         "status": "unused",
         "type": "YJ",
