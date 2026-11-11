@@ -9,11 +9,11 @@
         "remain_time": 0
     },
     "kissking123": {
-        "status": "unused",
+        "status": "running",
         "type": "YJ",
         "duration_mins": 0,
-        "expire": "",
-        "bind_mac": "",
+        "expire": "2026-11-12 02:20",
+        "bind_mac": "49319242727609",
         "unbind_count": 0,
         "remain_time": 0
     }
