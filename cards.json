@@ -1,1 +1,9 @@
-{}
+{
+    "TK899C5F70EE03E9DF2425F522": {
+        "status": "running",
+        "expire": "2026-11-12 23:45",
+        "bind_mac": "",
+        "unbind_count": 0,
+        "remain_time": 0
+    }
+}
