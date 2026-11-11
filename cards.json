@@ -9,7 +9,7 @@
     "TK27790380D71BE8D80227EBB6": {
         "status": "running",
         "expire": "2099-12-31 23:59",
-        "bind_mac": "",
+        "bind_mac": "49319242727609",
         "unbind_count": 1,
         "remain_time": 0
     }
