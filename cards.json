@@ -1,10 +1,10 @@
 {
     "KissKing": {
-        "status": "unused",
+        "status": "running",
         "type": "YJ",
         "duration_mins": 0,
-        "expire": "",
-        "bind_mac": "",
+        "expire": "2099-12-31 23:59",
+        "bind_mac": "49319242727609",
         "unbind_count": 0,
         "remain_time": 0
     }
