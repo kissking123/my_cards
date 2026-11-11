@@ -16,5 +16,14 @@
         "bind_mac": "",
         "unbind_count": 0,
         "remain_time": 0
+    },
+    "kissking": {
+        "status": "unused",
+        "type": "YJ",
+        "duration_mins": 0,
+        "expire": "",
+        "bind_mac": "",
+        "unbind_count": 0,
+        "remain_time": 0
     }
 }
