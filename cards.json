@@ -28,16 +28,6 @@
         "unbind_count": 0,
         "remain_time": 0
     },
-    "KKDB6303137FA8033F146B1324": {
-        "status": "running",
-        "type": "自定义",
-        "duration_mins": 60,
-        "expire": "2026-11-12 16:51",
-        "bind_mac": "49319242727609",
-        "unbind_count": 0,
-        "remain_time": 0,
-        "last_online": "2026-11-12 16:52:14"
-    },
     "TK1A5EC9F3C8F7DA659ABA48F8": {
         "status": "unused",
         "type": "TK",
