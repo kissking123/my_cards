@@ -33,7 +33,7 @@
         "type": "自定义",
         "duration_mins": 60,
         "expire": "2026-11-12 16:50",
-        "bind_mac": "269318578560169",
+        "bind_mac": "",
         "unbind_count": 0,
         "remain_time": 0,
         "last_online": "2026-11-12 14:57:10"
