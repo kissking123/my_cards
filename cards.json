@@ -37,5 +37,14 @@
         "unbind_count": 0,
         "remain_time": 0,
         "last_online": "2026-11-12 16:52:14"
+    },
+    "TK1A5EC9F3C8F7DA659ABA48F8": {
+        "status": "unused",
+        "type": "TK",
+        "duration_mins": 1440,
+        "expire": "",
+        "bind_mac": "",
+        "unbind_count": 0,
+        "remain_time": 0
     }
 }
