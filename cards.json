@@ -28,5 +28,14 @@
         "unbind_count": 0,
         "remain_time": 0,
         "last_online": "2026-11-13 13:48:08"
+    },
+    "KKC8825A590B641798CB72F688": {
+        "status": "unused",
+        "type": "自定义",
+        "duration_mins": 60,
+        "expire": "",
+        "bind_mac": "",
+        "unbind_count": 0,
+        "remain_time": 0
     }
 }
