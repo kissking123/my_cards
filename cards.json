@@ -81,5 +81,14 @@
         "bind_mac": "",
         "unbind_count": 0,
         "remain_time": 0
+    },
+    "TK7EBC9280971702A403806F47": {
+        "status": "unused",
+        "type": "TK",
+        "duration_mins": 1440,
+        "expire": "",
+        "bind_mac": "",
+        "unbind_count": 0,
+        "remain_time": 0
     }
 }
