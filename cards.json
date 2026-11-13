@@ -18,15 +18,5 @@
         "unbind_count": 0,
         "remain_time": 0,
         "last_online": "2026-11-13 16:44:31"
-    },
-    "TK7753163284A5ECBEAA62A98B": {
-        "status": "running",
-        "type": "TK",
-        "duration_mins": 1440,
-        "expire": "2026-11-14 13:46",
-        "bind_mac": "",
-        "unbind_count": 0,
-        "remain_time": 0,
-        "last_online": "2026-11-13 13:48:08"
     }
 }
