@@ -63,5 +63,14 @@
         "bind_mac": "",
         "unbind_count": 0,
         "remain_time": 0
+    },
+    "TKA017BF2F724910BF6F4E6BB3": {
+        "status": "unused",
+        "type": "TK",
+        "duration_mins": 1440,
+        "expire": "",
+        "bind_mac": "",
+        "unbind_count": 0,
+        "remain_time": 0
     }
 }
