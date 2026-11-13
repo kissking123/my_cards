@@ -90,5 +90,14 @@
         "bind_mac": "",
         "unbind_count": 0,
         "remain_time": 0
+    },
+    "TK651DFFB11A9B74A62C94BFE8": {
+        "status": "unused",
+        "type": "TK",
+        "duration_mins": 1440,
+        "expire": "",
+        "bind_mac": "",
+        "unbind_count": 0,
+        "remain_time": 0
     }
 }
