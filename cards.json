@@ -113,12 +113,13 @@
         "remain_time": 0
     },
     "TKE27C1FCF56F271ED891BBCBA": {
-        "status": "unused",
+        "status": "running",
         "type": "TK",
         "duration_mins": 1440,
-        "expire": "",
-        "bind_mac": "",
+        "expire": "2026-11-19 19:49",
+        "bind_mac": "57562775147761",
         "unbind_count": 0,
-        "remain_time": 0
+        "remain_time": 0,
+        "last_online": "2026-11-18 19:49:09"
     }
 }
