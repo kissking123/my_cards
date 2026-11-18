@@ -85,13 +85,14 @@
         "remain_time": 0
     },
     "TK7EBC9280971702A403806F47": {
-        "status": "unused",
+        "status": "running",
         "type": "TK",
         "duration_mins": 1440,
-        "expire": "",
-        "bind_mac": "",
+        "expire": "2026-11-19 19:21",
+        "bind_mac": "207794398448849",
         "unbind_count": 0,
-        "remain_time": 0
+        "remain_time": 0,
+        "last_online": "2026-11-18 19:21:44"
     },
     "TK651DFFB11A9B74A62C94BFE8": {
         "status": "unused",
