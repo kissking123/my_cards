@@ -78,5 +78,14 @@
         "unbind_count": 0,
         "remain_time": 0,
         "last_online": "2026-11-26 17:09:50"
+    },
+    "KK22E5A7E1263EED59F39C5C7C": {
+        "status": "unused",
+        "type": "自定义",
+        "duration_mins": 1,
+        "expire": "",
+        "bind_mac": "",
+        "unbind_count": 0,
+        "remain_time": 0
     }
 }
