@@ -70,12 +70,13 @@
         "last_online": "2026-11-26 16:42:19"
     },
     "TKBC043C7351E5632B6AE8C813": {
-        "status": "unused",
+        "status": "running",
         "type": "TK",
         "duration_mins": 1440,
-        "expire": "",
-        "bind_mac": "",
+        "expire": "2026-11-27 16:43",
+        "bind_mac": "49319242727609",
         "unbind_count": 0,
-        "remain_time": 0
+        "remain_time": 0,
+        "last_online": "2026-11-26 16:43:27"
     }
 }
