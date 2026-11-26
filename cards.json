@@ -33,11 +33,11 @@
         "status": "running",
         "type": "TK",
         "duration_mins": 1440,
-        "expire": "2026-11-19 04:26",
-        "bind_mac": "",
+        "expire": "2026-11-27 17:14",
+        "bind_mac": "49319242727609",
         "unbind_count": 1,
         "remain_time": 0,
-        "last_online": "2026-11-26 16:20:44"
+        "last_online": "2026-11-26 17:14:57"
     },
     "TK7EBC9280971702A403806F47": {
         "status": "running",
