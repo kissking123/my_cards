@@ -39,51 +39,6 @@
         "remain_time": 0,
         "last_online": "2026-11-26 16:20:44"
     },
-    "TK8D3B2343ADC739E53556C9DE": {
-        "status": "unused",
-        "type": "TK",
-        "duration_mins": 1440,
-        "expire": "",
-        "bind_mac": "",
-        "unbind_count": 0,
-        "remain_time": 0
-    },
-    "TKE83A067E681B1035B16E38F4": {
-        "status": "unused",
-        "type": "TK",
-        "duration_mins": 1440,
-        "expire": "",
-        "bind_mac": "",
-        "unbind_count": 0,
-        "remain_time": 0
-    },
-    "TK446DC4FE433F776A907FF852": {
-        "status": "unused",
-        "type": "TK",
-        "duration_mins": 1440,
-        "expire": "",
-        "bind_mac": "",
-        "unbind_count": 0,
-        "remain_time": 0
-    },
-    "TKA017BF2F724910BF6F4E6BB3": {
-        "status": "unused",
-        "type": "TK",
-        "duration_mins": 1440,
-        "expire": "",
-        "bind_mac": "",
-        "unbind_count": 0,
-        "remain_time": 0
-    },
-    "TKD8057D427435D3C545DA1D8F": {
-        "status": "unused",
-        "type": "TK",
-        "duration_mins": 1440,
-        "expire": "",
-        "bind_mac": "",
-        "unbind_count": 0,
-        "remain_time": 0
-    },
     "TK7EBC9280971702A403806F47": {
         "status": "running",
         "type": "TK",
@@ -94,24 +49,6 @@
         "remain_time": 0,
         "last_online": "2026-11-18 19:36:37"
     },
-    "TK651DFFB11A9B74A62C94BFE8": {
-        "status": "unused",
-        "type": "TK",
-        "duration_mins": 1440,
-        "expire": "",
-        "bind_mac": "",
-        "unbind_count": 0,
-        "remain_time": 0
-    },
-    "TK1E6B087ECDEEE22D04FEDF37": {
-        "status": "unused",
-        "type": "TK",
-        "duration_mins": 1440,
-        "expire": "",
-        "bind_mac": "",
-        "unbind_count": 0,
-        "remain_time": 0
-    },
     "TKE27C1FCF56F271ED891BBCBA": {
         "status": "running",
         "type": "TK",
@@ -121,95 +58,5 @@
         "unbind_count": 0,
         "remain_time": 0,
         "last_online": "2026-11-18 20:21:23"
-    },
-    "TK9BEAD21450A4FB99DA927A32": {
-        "status": "unused",
-        "type": "TK",
-        "duration_mins": 1440,
-        "expire": "",
-        "bind_mac": "",
-        "unbind_count": 0,
-        "remain_time": 0
-    },
-    "TK194C8AF1390DD4895FAA4830": {
-        "status": "unused",
-        "type": "TK",
-        "duration_mins": 1440,
-        "expire": "",
-        "bind_mac": "",
-        "unbind_count": 0,
-        "remain_time": 0
-    },
-    "TK222D910AF4697308E33643C7": {
-        "status": "unused",
-        "type": "TK",
-        "duration_mins": 1440,
-        "expire": "",
-        "bind_mac": "",
-        "unbind_count": 0,
-        "remain_time": 0
-    },
-    "TKC08FAC295B0D5052307328E4": {
-        "status": "unused",
-        "type": "TK",
-        "duration_mins": 1440,
-        "expire": "",
-        "bind_mac": "",
-        "unbind_count": 0,
-        "remain_time": 0
-    },
-    "TK1C378D01B49489562F0EB845": {
-        "status": "unused",
-        "type": "TK",
-        "duration_mins": 1440,
-        "expire": "",
-        "bind_mac": "",
-        "unbind_count": 0,
-        "remain_time": 0
-    },
-    "TKF6F7413180CA97506B4A8CB7": {
-        "status": "unused",
-        "type": "TK",
-        "duration_mins": 1440,
-        "expire": "",
-        "bind_mac": "",
-        "unbind_count": 0,
-        "remain_time": 0
-    },
-    "TK61DC30F7D987558387026E23": {
-        "status": "unused",
-        "type": "TK",
-        "duration_mins": 1440,
-        "expire": "",
-        "bind_mac": "",
-        "unbind_count": 0,
-        "remain_time": 0
-    },
-    "TKD69B9ACB3FB89F283AE6016D": {
-        "status": "unused",
-        "type": "TK",
-        "duration_mins": 1440,
-        "expire": "",
-        "bind_mac": "",
-        "unbind_count": 0,
-        "remain_time": 0
-    },
-    "TK4A6E8181B78CEC7EA5BB62A7": {
-        "status": "unused",
-        "type": "TK",
-        "duration_mins": 1440,
-        "expire": "",
-        "bind_mac": "",
-        "unbind_count": 0,
-        "remain_time": 0
-    },
-    "TK93F9630728C4CD9088785055": {
-        "status": "unused",
-        "type": "TK",
-        "duration_mins": 1440,
-        "expire": "",
-        "bind_mac": "",
-        "unbind_count": 0,
-        "remain_time": 0
     }
 }
