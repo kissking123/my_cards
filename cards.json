@@ -29,16 +29,6 @@
         "remain_time": 0,
         "last_online": "2026-11-18 19:15:18"
     },
-    "TKFB6F9D95D6737F95F0AD5CA9": {
-        "status": "running",
-        "type": "TK",
-        "duration_mins": 1440,
-        "expire": "2026-12-27 17:14",
-        "bind_mac": "49319242727609",
-        "unbind_count": 1,
-        "remain_time": 1433,
-        "last_online": "2026-11-26 17:21:22"
-    },
     "TK7EBC9280971702A403806F47": {
         "status": "running",
         "type": "TK",
@@ -58,25 +48,5 @@
         "unbind_count": 0,
         "remain_time": 0,
         "last_online": "2026-11-18 20:21:23"
-    },
-    "YJBBDFE6445E68D006AACAAD06": {
-        "status": "running",
-        "type": "YJ",
-        "duration_mins": 0,
-        "expire": "2099-12-31 23:59",
-        "bind_mac": "49319242727609",
-        "unbind_count": 0,
-        "remain_time": 0,
-        "last_online": "2026-11-26 16:42:19"
-    },
-    "KK22E5A7E1263EED59F39C5C7C": {
-        "status": "running",
-        "type": "自定义",
-        "duration_mins": 1,
-        "expire": "2026-11-26 17:23",
-        "bind_mac": "49319242727609",
-        "unbind_count": 0,
-        "remain_time": 0,
-        "last_online": "2026-11-26 17:23:29"
     }
 }
