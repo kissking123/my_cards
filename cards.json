@@ -138,5 +138,14 @@
         "bind_mac": "",
         "unbind_count": 0,
         "remain_time": 0
+    },
+    "KKA78CC8C50523CEFC9060A286": {
+        "status": "unused",
+        "type": "自定义",
+        "duration_mins": 52034400,
+        "expire": "",
+        "bind_mac": "",
+        "unbind_count": 0,
+        "remain_time": 0
     }
 }
