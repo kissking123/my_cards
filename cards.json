@@ -131,12 +131,13 @@
         "remain_time": 0
     },
     "TKA44A304CB367788589E80C49": {
-        "status": "unused",
+        "status": "running",
         "type": "TK",
         "duration_mins": 1440,
-        "expire": "",
-        "bind_mac": "",
+        "expire": "2026-11-29 13:14",
+        "bind_mac": "220258961651247",
         "unbind_count": 0,
-        "remain_time": 0
+        "remain_time": 0,
+        "last_online": "2026-11-28 13:14:48"
     }
 }
